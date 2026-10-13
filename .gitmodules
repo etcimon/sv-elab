@@ -1,6 +1,8 @@
 [submodule "third_party/slang"]
 	path = third_party/slang
-	url = https://github.com/MikePopoloski/slang.git
+	url = https://github.com/etcimon/slang.git
+	branch = g6lc
 [submodule "third_party/fmt"]
 	path = third_party/fmt
-	url = https://github.com/fmtlib/fmt
+	url = https://github.com/etcimon/fmt.git
+	branch = g6lc
